@@ -142,5 +142,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Thomas Vaeth's solution](https://github.com/thomasvaeth/the_odin_project/tree/master/etch-a-sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/thomasvaeth/the_odin_project/blob/master/etch-a-sketch/index.html)
 * [Matias Pan's solution](https://github.com/kriox26/odin_project/tree/master/sketchpad) | [View in browser](http://htmlpreview.github.io/?https://github.com/kriox26/odin_project/blob/master/sketchpad/index.html)
 * [Ryan Jordan's solution](https://github.com/krjordan/etch-a-sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/krjordan/etch-a-sketch/blob/master/index.html)
-* [Chris McIntyre's solution](https://github.com/leamerluck/etch-a-sketch) | [View in browser](https://github.com/leamerluck/etch-a-sketch/blob/master/grid.html)
+* [Chris McIntyre's solution](https://github.com/leamerluck/etch-a-sketch/tree/master/the_odin_project/etch-a-sketch) | [View in browser](https://github.com/leamerluck/etch-a-sketch/tree/blob/the_odin_project/etch-a-sketch/grid.html)
 * Add your solution above this line!
